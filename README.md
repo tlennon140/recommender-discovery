@@ -20,7 +20,7 @@
 5. Multinomial Variational Auto-encoder
 6. Sequential Variational Auto-encoder
 7. Embarrassingly Shallow Auto-encoders
-8. 
+
     https://www.topbots.com/marketing-ai-research-personalization/
     https://github.com/dawenl/vae_cf
     https://towardsdatascience.com/recommendation-system-series-part-6-the-6-variants-of-autoencoders-for-collaborative-filtering-bd7b9eae2ec7
